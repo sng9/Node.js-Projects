@@ -104,3 +104,5 @@ public
 .idea
 
 .DS_Store
+
+.vscode
