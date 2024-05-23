@@ -1,5 +1,12 @@
+import { randomBytes } from 'crypto'
 import { createWriteStream } from 'fs'
 import { createServer } from 'net'
+
+
+const iv = randomBytes(16)
+const secret = randomBytes(24)
+console.log(`IV generated: ${iv.toString('hex')}`)
+console.log(`generated secret: ${secret.toString('hex')}`)
 
 function demultiplexChannel (source, destinations) {
   let currentChannel = null

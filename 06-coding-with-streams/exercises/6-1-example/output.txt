@@ -1,0 +1,3 @@
+Algorithm: gzip, time taken: 14 ms, size: 52 bytes
+Algorithm: BrotliCompress, time taken: 2 ms, size: 34 bytes
+Algorithm: Deflate, time taken: 3 ms, size: 40 bytes
