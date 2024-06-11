@@ -1,0 +1,15 @@
+[32mINFO[39m Please be advised today there is no class
+[33mWARN[39m Package is deprecated
+undefined {"a":12,"b":13}
+[32mINFO[39m Please be advised today there is no class
+[33mWARN[39m Package is deprecated
+[36mDEBUG[39m {"a":12,"b":13}
+[32mINFO[39m Please be advised today there is no class
+[33mWARN[39m Package is deprecated
+[36mDEBUG[39m {"a":12,"b":13}
+[32mINFO[39m Please be advised today there is no class
+[33mWARN[39m Package is deprecated
+[36mDEBUG[39m {"a":12,"b":13}
+6/11/2024, 2:24:29 PM [32mINFO[39m Please be advised today there is no class
+6/11/2024, 2:24:29 PM [33mWARN[39m Package is deprecated
+6/11/2024, 2:24:29 PM [36mDEBUG[39m {"a":12,"b":13}

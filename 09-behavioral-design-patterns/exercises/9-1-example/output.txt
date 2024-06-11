@@ -1,0 +1,8 @@
+[32mINFO[39m Please be advised today there is no class
+[36mDEBUG[39m varaible x = 10
+[33mWARN[39m Package is deprecated
+[31mERROR[39m OutofbondException, check the array size
+[32mINFO[39m Please be advised today there is no class
+[36mDEBUG[39m {"a":12,"b":13}
+[33mWARN[39m Package is deprecated
+[31mERROR[39m OutofbondException, check the array size
