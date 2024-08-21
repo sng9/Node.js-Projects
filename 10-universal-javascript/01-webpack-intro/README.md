@@ -1,33 +1,15 @@
-# 01-webpack-intro
+# 🚀 Welcome to your new awesome project!
 
-This example demostrates how to use Webpack and how to share a simple module between the browser and the server
+This project has been created using **webpack-cli**, you can now run
 
-## Dependencies
-
-Install all the necessary dependencies with:
-
-```bash
-npm install
+```
+npm run build
 ```
 
-## Run
+or
 
-To run the example server side:
-
-```bash
-node src/server.js
+```
+yarn build
 ```
 
-To run the example in the browser (interactively):
-
-```bash
-npm start # or node_modules/.bin/webpack-dev-server --config webpack.config.cjs
-```
-
-Alternatively, you can build a static version of the frontend app with:
-
-```bash
-npm run build # or node_modules/.bin/webpack --config webpack.config.cjs
-```
-
-Then you can open the file `dist/index.html` with your favorite browser.
+to bundle your application
